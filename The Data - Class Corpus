@@ -1,0 +1,4 @@
+# The Data
+CORPUS_PATH = 'https://raw.githubusercontent.com/barrycforever/MSDS_453_NLP/main/MSDS453_ClassCorpus/MSDS453_ClassCorpus_Final_Sec56_v1_20240627.csv'
+corpus_df = get_corpus_df(CORPUS_PATH)
+documents = [Document(x, y) for x, y in zip(corpus_df.Doc_ID, corpus_df.Text)]
