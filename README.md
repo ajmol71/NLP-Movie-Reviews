@@ -1,6 +1,7 @@
 # NLP-Movie-Reviews
 
 DB4 - LSA and LDA of corpus and a subset fo the corpus based on a Doc2Vec cluster.
+Molitor Module 3 Assignment 1 - First vectorized representations of the class corpus.
 Molitor A2.py - Clustering, classification, and topic modeling.
 Molitor A2.pdf - An essay-style analysis of experiment implications from Molitor A2.py.
 Molitor A3.py - Knowledge graphs, entity extraction and relation, and LSTM RNNs for genre classification.
